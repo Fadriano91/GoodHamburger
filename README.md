@@ -10,7 +10,7 @@ Certifique-se de ter o SDK .NET 8 instalado em sua máquina. Você pode baixá-l
 1. Clone o repositório em sua máquina local:
 
     ```bash
-    git clone https://github.com/seu-usuario/good-hamburger.git
+    git clone https://github.com/Fadriano91/good-hamburger.git
     ```
 
 2. Abra o projeto no Visual Studio.
